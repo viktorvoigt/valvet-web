@@ -60,11 +60,13 @@ The application is the web site of the software consultancy Valvet Tech AB.
 
 ### Header
 
-The header should contain the company logo.
+The header should contain the transparent company logo.
 
-The header should contain company slogan highlighted:
+The header should contain company slogan:
 
 "Konsultmässighet i ryggraden, teknik i hjärnan, kunden i hjärtat och nyfikenhet i armar och ben"
+
+The company slogan should be italic and larger than notmal body text.
 
 ### Main body
 

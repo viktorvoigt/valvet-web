@@ -49,7 +49,7 @@ The application is the web site of the software consultancy Valvet Tech AB.
 ### Colors
 - Background color should be #2a2a2c
 - Text color should be #ffffff;
-- Accent coor should be #caaf7a;
+- Accent color should be #caaf7a;
 
 ### Styling
 - No elements should have rounded corners
@@ -58,6 +58,10 @@ The application is the web site of the software consultancy Valvet Tech AB.
 - The font family should be: Jost, sans-serif
 
 ## Content
+
+### Title
+
+The title of the browser window should be Valvet Tech AB.
 
 ### Navigation bar
 
@@ -116,7 +120,7 @@ framgång."
 
 The footer background should be white. 
 
-It should the contain the transparent company logo.
+It should contain the transparent company logo.
 
 The footer contains contact details, each on a card:
 
@@ -128,12 +132,12 @@ Christian Palmqvist
 christian.palmqvist@valvet.tech
 +46 (0)704 979545
 
-Then is contains Valvets street adress:
+Then it contains Valvet's street address:
 
 Valvet Tech AB
 Djäknegatan 5, Malmö
 
-The footer also has a link to vavets linked in page:
+The footer also has a link to Valvet's LinkedIn page:
 
 https://www.linkedin.com/company/valvet-tech-ab/
 

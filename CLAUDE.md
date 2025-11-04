@@ -58,6 +58,12 @@ The application is the web site of the software consultancy Valvet Tech AB.
 
 ## Content
 
+### Navigation bar
+
+Navigation bar should have two links:
+- Detta är Valvet, linking to the main body
+- Ta kontakt, linking to the footer with the contact info
+
 ### Header
 
 The header should contain the transparent company logo.
@@ -106,9 +112,11 @@ The footer should be bright. It should the contain the transparent company logo.
 The footer contains contact details:
 
 Tom Blohmé
+tom.blohme@valvet.tech
 +46 (0)760 507153
 
 Christian Palmqvist
+christian.palmqvist@valvet.tech
 +46 (0)704 979545
 
 Then is contains Valvets street adress:

@@ -30,8 +30,9 @@ The application is the web site of the software consultancy Valvet Tech AB.
 - [src/index.css](src/index.css) - Global styles
 
 ### Images
-- [images/valvet_logo.png] - The valvet logo
-- [images/valvet_logo_transparent.png] - Valvet logo with transparent background
+- [public/valvet_logo.png] - The valvet logo
+- [public/valvet_logo_transparent.png] - Valvet logo with transparent background
+- [public/favicon.ico] - The favicon for valvets website
 
 ### Testing
 - Uses Jest and React Testing Library

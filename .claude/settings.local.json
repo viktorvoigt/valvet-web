@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(test:*)",
+      "Bash(if [ -d public/images ])",
+      "Bash(then ls public/images/*.png)",
+      "Bash(else echo \"public/images directory does not exist\")",
+      "Bash(fi)"
     ],
     "deny": [],
     "ask": []

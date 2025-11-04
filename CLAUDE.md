@@ -67,6 +67,8 @@ Navigation bar should have two links:
 
 The links should be aligned top right.
 
+The links should fade out when the user is not at the top of the screen.
+
 ### Header
 
 The header should contain the transparent company logo. It should be very big.

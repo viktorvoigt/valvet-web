@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Valvet",
+  "name": "Valvet Tech AB",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logovalvet_logo_transparent.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "1304x1300"
     },
     {
-      "src": "logo512.png",
+      "src": "valvet_logo.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1100x1025"
     }
   ],
   "start_url": ".",

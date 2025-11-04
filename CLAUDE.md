@@ -49,3 +49,65 @@ The application is the web site of the software consultancy Valvet Tech AB.
 - Background color should be #2a2a2c
 - Text color should be #ffffff;
 - Accent coor should be #caaf7a;
+
+### Styling
+- No elements should have rounded corners
+
+### Typography
+- Sans serif fonts should be used
+
+## Content
+
+### Main page
+
+The main page should contain the following text:
+
+"Konsultmässighet i ryggraden, teknik i hjärnan, kunden i hjärtat och nyfikenhet i armar och ben"
+
+"Detta är Valvet"
+
+"Valvet har ambitionen att verka som södra Sveriges främsta
+konsultbolag inom bank, finans, försäkring och fintech. Våra kunder
+finns huvudsakligen inom dessa segment och våra konsulter har rätt
+kunskap och erfarenhet för att leverera excellens i sina uppdrag."
+
+"Vi erbjuder"
+
+"Det värde vi kan erbjuda våra kunder blir därmed unikt och varje
+enskild konsult är handplockad till vårt team som består av de
+absolut främsta konsulterna på marknaden."
+
+"Våra konsulter"
+
+"Som konsult hos oss strävar du efter att förbättra både din egen
+prestation och kvaliteten på det arbete du levererar, men
+framförallt skapa verkliga och varaktiga värden för våra kunder
+genom innovativa lösningar och enastående service. Samtidigt
+värdesätter vi att du har roligt på jobbet och trivs i din roll,
+eftersom vi tror på att glädje och engagemang är nyckeln till
+framgång."
+
+### Footer
+
+The footer contains contact details:
+
+Tom Blohmé
++46 (0)760 507153
+
+Christian Palmqvist
++46 (0)704 979545
+
+Then is contains Valvets street adress:
+
+Valvet Tech AB
+Djäknegatan 5, Malmö
+
+The footer also has a link to vavets linked in page:
+
+https://www.linkedin.com/company/valvet-tech-ab/
+
+
+
+
+
+

@@ -77,11 +77,11 @@ The header should contain company slogan:
 
 "Konsultmässighet i ryggraden, teknik i hjärnan, kunden i hjärtat och nyfikenhet i armar och ben"
 
-The company slogan should be italic and larger than notmal body text.
+The company slogan should be italic and larger than normal body text.
 
 ### Main body
 
-The main bodu contains three cards. The cards have no outline.
+The main body contains three cards. The cards have no outline.
 
 The first card:
 

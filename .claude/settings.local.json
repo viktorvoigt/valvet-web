@@ -6,7 +6,12 @@
       "Bash(if [ -d public/images ])",
       "Bash(then ls public/images/*.png)",
       "Bash(else echo \"public/images directory does not exist\")",
-      "Bash(fi)"
+      "Bash(fi)",
+      "Bash(npm start)",
+      "Bash(timeout 10 bash:*)",
+      "Bash(curl:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm test:*)"
     ],
     "deny": [],
     "ask": []

@@ -10,6 +10,8 @@ This is a React web application bootstrapped with Create React App (CRA). It use
 
 The application is the web site of the software consultancy Valvet Tech AB.
 
+The application should showcase technical proficiency. Use as many advanced web development techniques and visual effects as possible.
+
 ## Development Commands
 
 - `npm start` - Start development server on http://localhost:3000 with hot reload

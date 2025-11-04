@@ -55,7 +55,7 @@ The application is the web site of the software consultancy Valvet Tech AB.
 - No elements should have rounded corners
 
 ### Typography
-- Sans serif fonts should be used
+- The font family should be: Jost, sans-serif
 
 ## Content
 
@@ -65,9 +65,11 @@ Navigation bar should have two links:
 - Detta är Valvet, linking to the main body
 - Ta kontakt, linking to the footer with the contact info
 
+The links should be aligned top right.
+
 ### Header
 
-The header should contain the transparent company logo.
+The header should contain the transparent company logo. It should be very big.
 
 The header should contain company slogan:
 
@@ -76,6 +78,8 @@ The header should contain company slogan:
 The company slogan should be italic and larger than notmal body text.
 
 ### Main body
+
+The main bodu contains three cards. The cards have no outline.
 
 The first card:
 
@@ -108,9 +112,11 @@ framgång."
 
 ### Footer
 
-The footer should be bright. It should the contain the transparent company logo.
+The footer background should be white. 
 
-The footer contains contact details:
+It should the contain the transparent company logo.
+
+The footer contains contact details, each on a card:
 
 Tom Blohmé
 tom.blohme@valvet.tech
@@ -129,7 +135,7 @@ The footer also has a link to vavets linked in page:
 
 https://www.linkedin.com/company/valvet-tech-ab/
 
-Uset he following svg data for  linked in link:
+Use the following svg data for linked in link:
 
 ```xml
 <svg

@@ -74,11 +74,15 @@ Navigation bar should have two links:
 
 The links should be aligned top right.
 
+The logo should be on the navigation bar aligned left.
+
 ### Main body
 
 The main body can contain:
 [content/STARTPAGE.md]
 [content/CUSTOMERCASES.md]
+
+Body text should be #ffffff;
 
 ### Footer
 

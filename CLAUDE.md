@@ -68,55 +68,17 @@ The title of the browser window should be Valvet Tech AB.
 ### Navigation bar
 
 Navigation bar should have two links:
-- Detta är Valvet, linking to the main body
+- Detta är Valvet, linking showing the start 
+- Kundcase, linking to the customer cases
 - Ta kontakt, linking to the footer with the contact info
 
 The links should be aligned top right.
 
-The links should fade out when the user is not at the top of the screen.
-
-### Header
-
-The header should contain the transparent company logo. It should be very big.
-
-The header should contain company slogan:
-
-"Konsultmässighet i ryggraden, teknik i hjärnan, kunden i hjärtat och nyfikenhet i armar och ben"
-
-The company slogan should be italic and larger than normal body text.
-
 ### Main body
 
-The main body contains three cards. The cards have no outline.
-
-The first card:
-
-"Detta är Valvet"
-
-"Valvet har ambitionen att verka som södra Sveriges främsta
-konsultbolag inom bank, finans, försäkring och fintech. Våra kunder
-finns huvudsakligen inom dessa segment och våra konsulter har rätt
-kunskap och erfarenhet för att leverera excellens i sina uppdrag."
-
-The second card:
-
-"Vi erbjuder"
-
-"Det värde vi kan erbjuda våra kunder blir därmed unikt och varje
-enskild konsult är handplockad till vårt team som består av de
-absolut främsta konsulterna på marknaden."
-
-The third card:
-
-"Våra konsulter"
-
-"Som konsult hos oss strävar du efter att förbättra både din egen
-prestation och kvaliteten på det arbete du levererar, men
-framförallt skapa verkliga och varaktiga värden för våra kunder
-genom innovativa lösningar och enastående service. Samtidigt
-värdesätter vi att du har roligt på jobbet och trivs i din roll,
-eftersom vi tror på att glädje och engagemang är nyckeln till
-framgång."
+The main body can contain:
+[content/STARTPAGE.md]
+[content/CUSTOMERCASES.md]
 
 ### Footer
 
